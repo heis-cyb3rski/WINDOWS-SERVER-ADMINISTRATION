@@ -271,6 +271,16 @@ The departmental OUs provide a structured Active Directory environment that allo
 
 Shows the five departmental OUs created within the thasage.local Active Directory domain.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/OU%20creation%201.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/OU%20creation%202.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/OU%20creation%203.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/OU%20creation%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/OU%20creation%205.png)
+
 
 ## Stage 5 — User and Security Group Management
 
@@ -298,9 +308,60 @@ Resource Permission
   ↓
 Access / Denied
 
-Evidence — Active Directory Users and Computers
+### SECURITY GROUPS CREATED:
+- GG_IT
+- GG_HR
+- GG_PROC
+- GG_ClientService
+- GG_Finance
 
-Shows the departmental users, security groups, and organizational structure used to manage access within the domain.
+### Evidence — Active Directory Users and Computers
+
+Shows the departmental users, security groups, and organizational structure used to manage access within the domain. 
+
+### Creating Security Groups for Each OU
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%201.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%202.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%203.png)
+
+
+### Creating Each Users and adding them to their OUs
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%205.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%206.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%207.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%208.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%209.png)
+
+### Using Powershell to View Created Security Groups:
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%2010.png)
+
+### Created a Powershell Script that automated the creation of new users, adding them to their OUs, Security groups
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%2011.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%2012.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%2013.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%2014.png)
+
+
+
+
+
+
+
 
 ## Stage 6 — Domain-Joining Windows Clients
 
