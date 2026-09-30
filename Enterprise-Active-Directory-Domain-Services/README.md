@@ -149,6 +149,27 @@ Screenshot: DC01 Server Manager / system configuration.
 
 Shows the configured Windows Server 2025 domain controller.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20setup%201.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%202.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%203.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%205.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%206.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%207.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%208.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%2010.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%2011.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/51d7f359ca8f01469484102fd465a623e218b0f0/Enterprise-Active-Directory-Domain-Services/Windows%20Server%20Setup%2012.png)
 
 ## Stage 3 — Active Directory Domain Services
 
