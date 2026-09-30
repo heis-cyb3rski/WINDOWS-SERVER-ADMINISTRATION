@@ -116,7 +116,7 @@ Screenshot: Hyper-V Manager showing DC01 and the lab virtual machines.
 
 Shows the virtualized enterprise lab infrastructure and deployed virtual machines.
 
-![image](Hyper-V%Switch%.png)
+![Image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/42f7aaad297358908adf8eeb49222f97a715e7b9/Enterprise-Active-Directory-Domain-Services/Hyper-V%20Switch%20.png)
 
 ## Stage 2 — Windows Server Configuration
 
