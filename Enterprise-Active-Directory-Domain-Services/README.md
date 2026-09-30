@@ -196,6 +196,45 @@ Screenshot: Active Directory Users and Computers showing the thasage.local domai
 
 Confirms successful creation of the Active Directory domain.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%201.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%202.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%203.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%205.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%206.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%207.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%208.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%209.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2010.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2011.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2012.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2013.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2014.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2015.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2016.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2017.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2018.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2019.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/ea21450f8792017ec9811b9a0bdfe18f4bf2061e/Enterprise-Active-Directory-Domain-Services/AD%20Role%20Installation%2020.png)
 
 
 ## Stage 4 — Organizational Units and Directory Structure
