@@ -118,6 +118,22 @@ Shows the virtualized enterprise lab infrastructure and deployed virtual machine
 
 ![Image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/42f7aaad297358908adf8eeb49222f97a715e7b9/Enterprise-Active-Directory-Domain-Services/Hyper-V%20Switch%20.png)
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/5391fbc19f8757f3edbb515bdeb260ff5948d0a4/Enterprise-Active-Directory-Domain-Services/Creating%20New%20DC01.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/5391fbc19f8757f3edbb515bdeb260ff5948d0a4/Enterprise-Active-Directory-Domain-Services/Creating%20New%20DC01-%202.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/5391fbc19f8757f3edbb515bdeb260ff5948d0a4/Enterprise-Active-Directory-Domain-Services/Creating%20New%20DC01%20-%203.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/5391fbc19f8757f3edbb515bdeb260ff5948d0a4/Enterprise-Active-Directory-Domain-Services/Creating%20New%20DC01%20-%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/5391fbc19f8757f3edbb515bdeb260ff5948d0a4/Enterprise-Active-Directory-Domain-Services/Creating%20New%20DC01%20-%205.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/5391fbc19f8757f3edbb515bdeb260ff5948d0a4/Enterprise-Active-Directory-Domain-Services/Creating%20New%20DC01%20-%206.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/5391fbc19f8757f3edbb515bdeb260ff5948d0a4/Enterprise-Active-Directory-Domain-Services/Creating%20New%20DC01%20-%207.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/5391fbc19f8757f3edbb515bdeb260ff5948d0a4/Enterprise-Active-Directory-Domain-Services/Creating%20New%20DC01%20-%208.png)
+
 ## Stage 2 — Windows Server Configuration
 
 Windows Server 2025 was installed on DC01 and the server was configured as the central infrastructure server.
