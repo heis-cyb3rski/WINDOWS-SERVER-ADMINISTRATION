@@ -330,6 +330,8 @@ Shows the departmental users, security groups, and organizational structure used
 
 ### Creating Each Users and adding them to their OUs
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Creating%20User%20.png)
+
 ![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%204.png)
 
 ![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%205.png)
@@ -382,6 +384,36 @@ Users were able to sign into Windows using domain credentials.
 Screenshot: CLIENT01 showing the domain configuration.
 
 Demonstrates that the Windows client was successfully joined to the Active Directory domain.
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%201.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%202.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%203.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%205.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%206.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%207.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%208.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%209.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%2010.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%2011.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%2012.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%2013.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Domain%20Joining%20Window%20Clients%2014.png)
+
+
 
 ## Stage 7 — Group Policy
 
