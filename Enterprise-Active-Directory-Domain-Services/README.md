@@ -440,6 +440,42 @@ Group Policy Management was used to:
 Screenshot: Group Policy Management showing the configured GPO.
 Shows centralized Group Policy configuration and OU-based policy management.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%201.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%202.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%203.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%205.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%206.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%207.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%208.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%209.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%2010.png)
+
+### EVIDENCE TO CHECK GPO TOOK EFFECT
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%2011.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%2012.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%2013.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%2014.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20creation%2015.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d7743235204a566ce789330cee86fdc6e59a1385/GPO%20confirmation%201.png)
+
+### NOTE IN THE LAST SCREENSHOT YOU AREN'T ABLE TO CHANGE BACKGROUND PICTURE, WHICH PROOFS THE GPO HAS TAKEN EFFECT ON THE SECURITY GROUP
+
 ## Stage 8 — SMB File Sharing and Departmental Permissions
 
 A departmental HR file share was created on DC01.
