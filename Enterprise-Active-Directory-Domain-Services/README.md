@@ -504,6 +504,40 @@ Screenshot: HR user creating/editing HR-Test.txt.
 
 Demonstrates that an authorized HR user has read/write access to the departmental share.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%202.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%203.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%205.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%206.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%207.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%208.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%209.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%2010.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%2011.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%2012.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%2013.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%2014.png)
+
+### Using the CLI on Client01 (net view \\dc01) to check if HR user can access the shared folder "HR"
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%2015.png)
+
+### Check to see if permissions to users in HR department are effective by creating a textfile in the HR Shared Folder
+
+1[image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%2016.png)
+
 ### Unauthorized Access Test
 
 An IT user attempted to access: \\DC01\HR
@@ -518,6 +552,8 @@ Screenshot: IT user receiving Access Denied.
 
 Demonstrates that unauthorized departmental users cannot access the HR share.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/SMB%2017.png)
+
 ## Stage 9 — PowerShell Administration
 
 PowerShell was used extensively to perform administrative and validation tasks.
@@ -529,12 +565,17 @@ Get-ADDomain
 
 Used to verify the Active Directory domain configuration.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%20%201.png)
+
 ### Domain Controller
 
 </> Powershell:
 Get-ADDomainController
 
 Used to verify domain controller information.
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%202.png)
+
 
 ### Domain Users
 
@@ -543,6 +584,8 @@ Get-ADUser -Filter * | Select-Object Name, SamAccountName, Enabled
 
 Used to enumerate domain users and account status.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%203.png)
+
 ### Security Groups
 
 </> Powershell:
@@ -550,12 +593,16 @@ Get-ADGroup -Filter * | Select-Object Name, GroupScope, GroupCategory
 
 Used to verify Active Directory security groups.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%204.png)
+
 ### Organizational Units
 
 </> Powershell:
 Get-ADOrganizationalUnit -Filter * | Select-Object Name, DistinguishedName
 
 Used to verify the OU structure.
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%205.png)
 
 
 ## Stage 10 — Active Directory and Network Health Checks
@@ -568,11 +615,22 @@ Several built-in troubleshooting tools were used to validate the environment.
 
 Used to perform domain controller health diagnostics.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%206.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%207.png)
+
+
 ### DNS Diagnostics
 
 </> Powershell: dcdiag /test:dns
 
 Used to test the DNS configuration supporting Active Directory.
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%208.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%209.png)
+
+
 
 ### Network Configuration
 
@@ -580,17 +638,23 @@ Used to test the DNS configuration supporting Active Directory.
 
 Used to inspect IP addressing, gateway and DNS configuration.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%2010.png)
 ### Network Adapter
 
 </> Powershell: Get-NetAdapter
 
 Used to verify network adapter status.
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%2010.png)
+
+
 ### DNS Resolution
 
 </> Powershell: Resolve-DnsName thasage.local
 
 Used to verify domain DNS resolution.
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%2010.png)
 
 ## Troubleshooting Case Study — DC01 to CLIENT01 Connectivity
 
@@ -624,18 +688,17 @@ The LanmanServer service on CLIENT01 was checked:
 
 The service was: Running 
 
-The next check examined the Windows Firewall rules:
+### The next check examined the Windows Firewall rules:
 
-</> Powershell: Get-NetFirewallRule -DisplayGroup "File and Printer Sharing" |
-Select-Object DisplayName, Enabled, Direction, Action
+### </> Powershell: Get-NetFirewallRule -DisplayGroup "File and Printer Sharing" | Select-Object DisplayName, Enabled, Direction, Action
 
 The relevant File and Printer Sharing rules were disabled.
 
 ### Resolution
 
-The firewall rules were enabled using PowerShell:
+### The firewall rules were enabled using PowerShell:
 
-</> Powershell: Set-NetFirewallRule -DisplayGroup "File and Printer Sharing" -Enabled True
+### </> Powershell: Set-NetFirewallRule -DisplayGroup "File and Printer Sharing" -Enabled True
 
 The configuration was then verified.
 
@@ -646,10 +709,16 @@ The configuration was then verified.
 Result
 TcpTestSucceeded : True
 
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%2011.png)
+
+
+
 ICMP connectivity was also retested:
-</> Powershell: Test-Connection CLIENT01 -Count 4
+</> Powershell: Test-Connection CLIENT01 -Count 2
 
 The test returned successful replies.
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/37e9ba934151630d17804c0b6bf26d56928e4424/Troubleshooting%20and%20Testing%2012.png)
 
 ### Troubleshooting Result
 
@@ -678,28 +747,6 @@ Apply Fix
    ↓
 Verify
 
-
-### Evidence
-
-Screenshot: Initial failed Test-NetConnection.
-
-Shows the initial SMB connectivity failure.
-
-Screenshot: Disabled File and Printer Sharing firewall rules.
-
-Shows the identified firewall configuration issue.
-
-Screenshot: PowerShell command enabling the firewall rules.
-
-Shows the remediation performed through PowerShell.
-
-Screenshot: Successful TCP 445 test.
-
-Confirms SMB connectivity was restored.
-
-Screenshot: Successful Test-Connection.
-
-Confirms network connectivity between DC01 and CLIENT01 after remediation.
 
 
 ## Key Skills Demonstrated
