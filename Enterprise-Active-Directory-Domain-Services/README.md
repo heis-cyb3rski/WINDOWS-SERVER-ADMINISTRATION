@@ -330,9 +330,9 @@ Shows the departmental users, security groups, and organizational structure used
 
 ### Creating Each Users and adding them to their OUs
 
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Creating%20User%20.png)
-
 ![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%204.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/deb69a0d20f6168e264accb3dcbb2f3bdef91197/Creating%20User%20.png)
 
 ![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/d43f3fb9f6f2f59034343eff465635a384ef9777/Enterprise-Active-Directory-Domain-Services/Security%20group%205.png)
 
