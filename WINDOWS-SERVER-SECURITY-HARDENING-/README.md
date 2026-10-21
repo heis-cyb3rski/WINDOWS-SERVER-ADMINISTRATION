@@ -137,7 +137,9 @@ The lab was prepared, and a recovery checkpoint was created before the implement
 
 **Evidence to include:** A screenshot of the Hyper-V virtual machines and the checkpoint, if available.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c42047170f46f2672149c176cc2b1d48aef7df51/WINDOWS-SERVER-SECURITY-HARDENING-/Lab%20Preparation%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c42047170f46f2672149c176cc2b1d48aef7df51/WINDOWS-SERVER-SECURITY-HARDENING-/Lab%20Preparation%2002.png)
 
 ## Stage 2: Security Baseline Assessment
 
