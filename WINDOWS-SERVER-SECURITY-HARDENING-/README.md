@@ -165,39 +165,7 @@ The baseline also identified enabled inbound rules for services such as SMB, Win
 
 ![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2002.png)
 
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2003.png)
 
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2004.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2005.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2006.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2007.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2008.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2009.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2010.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2011.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2012.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2013.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2014.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2015.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2016.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2017.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2018.png)
-
-![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2019.png)
 
 #### 2.2 Microsoft Defender
 
@@ -244,7 +212,39 @@ It also identified areas for improvement, including selected inbound firewall ru
 
 **Evidence to include:** Screenshots or saved outputs showing the initial firewall configuration, Defender status, account configuration, service status, and audit-policy settings.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2003.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2004.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2005.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2006.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2007.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2008.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2009.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2010.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2011.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2012.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2013.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2014.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2015.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2016.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2017.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2018.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2019.png)
 
 ## Stage 3: Account Security and Least Privilege
 
@@ -284,7 +284,11 @@ The account's creation and group membership should not be presented as proof tha
 
 **Evidence to include:** The screenshot showing the creation of `IT.Admin` and its administrative group configuration.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/8abea65a20034433098b0d8301cead74b15a2a5f/WINDOWS-SERVER-SECURITY-HARDENING-/Account%20Sec%20and%20Least%20Privilege%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/8abea65a20034433098b0d8301cead74b15a2a5f/WINDOWS-SERVER-SECURITY-HARDENING-/Account%20Sec%20and%20Least%20Privilege%2002.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/8abea65a20034433098b0d8301cead74b15a2a5f/WINDOWS-SERVER-SECURITY-HARDENING-/Account%20Sec%20and%20Least%20Privilege%2003.png)
 
 ## Stage 4: Windows Defender Firewall Hardening
 
