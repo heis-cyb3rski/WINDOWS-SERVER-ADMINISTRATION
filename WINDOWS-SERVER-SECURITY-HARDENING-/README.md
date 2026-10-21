@@ -364,7 +364,19 @@ Restricting inbound access to trusted network ranges reduces exposure to systems
 * WinRM rule and its configured remote-address scope.
 * SMB inbound rule showing the `192.168.10.0/24` remote-address restriction.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Firewall%20Hard%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Firewall%20Hard%2002.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Firewall%20Hard%2003.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Firewall%20Hard%2004.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Firewall%20Hard%2005.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Firewall%20Hard%2006.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Firewall%20Hard%2007.png)
 
 ## Stage 5: Services and Attack Surface Reduction
 
@@ -436,7 +448,11 @@ Disabling unnecessary services reduces the number of components that could be ex
 
 **Evidence to include:** The final PowerShell output showing the state and startup type of Print Spooler and Remote Registry.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Services%20and%20Attack%20Surface%20Reduction%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Services%20and%20Attack%20Surface%20Reduction%2002.png))
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Services%20and%20Attack%20Surface%20Reduction%2003.png)
 
 ## Stage 6: Microsoft Defender Security
 
@@ -539,7 +555,19 @@ These protections improve the server's ability to detect or prevent malicious fi
 
 **Evidence to include:** Screenshots of Tamper Protection and potentially unwanted application protection, together with the PowerShell output confirming the Defender settings.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Security%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Security%2002.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Security%2003.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Security%2004.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Security%2005.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Security%2006.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Windows%20Defender%20Security%2007.png)
 
 ## Stage 7: Remote Desktop Security
 
@@ -573,7 +601,7 @@ This does not mean that all forms of remote administration were disabled; other 
 
 **Evidence to include:** A screenshot of the Server Manager Local Server page showing Remote Desktop disabled.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/Remote%20Desktop%20Disabled.png)
 
 ## Stage 8: SMB Security Hardening
 
@@ -679,7 +707,15 @@ Disabling SMB1 reduces reliance on a legacy protocol. Requiring SMB signing help
 * HR share-access output showing the designated HR group.
 * Any available screenshot documenting the NTFS permission review.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/SMB%20Security%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/SMB%20Security%20%2002.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/SMB%20Security%20%2003.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/SMB%20Security%20%2004.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/c4c5ebf35f6b92125deb7eed68b8f066c5bb48cc/WINDOWS-SERVER-SECURITY-HARDENING-/SMB%20Security%20%2005.png)
 
 ## Stage 9: Auditing and Security Event Monitoring
 
