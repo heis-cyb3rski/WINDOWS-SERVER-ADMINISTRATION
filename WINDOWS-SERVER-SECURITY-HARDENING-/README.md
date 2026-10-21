@@ -161,6 +161,44 @@ The initial assessment identified that the firewall was enabled and that its eff
 
 The baseline also identified enabled inbound rules for services such as SMB, Windows Remote Management, and OpenSSH.
 
+![images](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2002.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2003.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2004.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2005.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2006.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2007.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2008.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2009.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2010.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2011.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2012.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2013.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2014.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2015.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2016.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2017.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2018.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/1c9ab16b52c0d640436666e4e2e5aa5734397b64/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Baseline%20Assesment%2019.png)
+
 #### 2.2 Microsoft Defender
 
 The existing endpoint protection configuration was reviewed.
