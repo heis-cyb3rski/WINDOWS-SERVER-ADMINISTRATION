@@ -798,7 +798,17 @@ Authentication and account-management auditing can provide valuable evidence dur
 
 **Evidence to include:** The Event ID 4688 record showing Notepad process creation and the relevant audit-policy configuration.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Auditing%20and%20Security%20Event%20Monitoring%2001%20.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Auditing%20and%20Security%20Event%20Monitoring%2002.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Auditing%20and%20Security%20Event%20Monitoring%2006.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Auditing%20and%20Security%20Event%20Monitoring%2007.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Auditing%20and%20Security%20Event%20Monitoring%2008.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Auditing%20and%20Security%20Event%20Monitoring%2009.png)
 
 ## Stage 10: Controlled Security Event Simulation
 
@@ -861,7 +871,11 @@ An unsuccessful event-capture test must be documented accurately. It should not 
 
 **Evidence to include:** The Event ID 4688 screenshot. If no failed-authentication event was captured, document the test outcome in the troubleshooting notes rather than presenting an event that does not exist.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/controlled%20event%20simulation%20notepad%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/controlled%20event%20simulation%20notepad%2002.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/controlled%20event%20simulation%20notepad%2003.png)
 
 ## Stage 11: Security Verification and Before-and-After Comparison
 
@@ -962,7 +976,17 @@ The verification stage confirmed that the documented firewall, Defender, SMB, se
 
 The final documentation should distinguish verified controls from incomplete or inconclusive tests.
 
----
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Verification%2001.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Verification%20%2002.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Verification%20%2003.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Verification%20%2004.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Verification%20%2005.png)
+
+![image](https://github.com/heis-cyb3rski/WINDOWS-SERVER-ADMINISTRATION/blob/a8a59e28edfb4228ffd8808a5c3f53fd5e075ce1/WINDOWS-SERVER-SECURITY-HARDENING-/Security%20Verification%20%2006.png)
 
 ## Stage 12: Troubleshooting and Final Validation
 
